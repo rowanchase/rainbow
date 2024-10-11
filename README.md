@@ -1,7 +1,5 @@
 # Rainbow
 
-*Debug is boring but at least it can be colourful*
-
 ## Installation 
 You will firstly need to install the Rust language. See https://www.rust-lang.org/tools/install.
 
